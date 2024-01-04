@@ -1,0 +1,17 @@
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\bin\Debug\Posttest5.exe.config
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\bin\Debug\Posttest5.exe
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\bin\Debug\Posttest5.pdb
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\bin\Debug\Posttest5.xml
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\bin\Debug\mysql.data.dll
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\obj\Debug\Posttest5.vbproj.AssemblyReference.cache
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\obj\Debug\Posttest5.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\obj\Debug\Posttest5.DataService.resources
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\obj\Debug\Posttest5.Resources.resources
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\obj\Debug\Posttest5.Service.resources
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\obj\Debug\Posttest5.vbproj.GenerateResource.cache
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\obj\Debug\Posttest5.vbproj.CoreCompileInputs.cache
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\obj\Debug\Posttest5.vbproj.CopyComplete
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\obj\Debug\Posttest5.exe
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\obj\Debug\Posttest5.xml
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\obj\Debug\Posttest5.pdb
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest5_PV\Posttest5\Posttest5\obj\Debug\Posttest5.UpdateForm.resources

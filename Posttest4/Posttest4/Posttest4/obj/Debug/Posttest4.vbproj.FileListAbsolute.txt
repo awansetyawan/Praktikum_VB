@@ -1,0 +1,16 @@
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest4_PV\Posttest4\Posttest4\bin\Debug\Posttest4.exe.config
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest4_PV\Posttest4\Posttest4\bin\Debug\Posttest4.exe
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest4_PV\Posttest4\Posttest4\bin\Debug\Posttest4.pdb
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest4_PV\Posttest4\Posttest4\bin\Debug\Posttest4.xml
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest4_PV\Posttest4\Posttest4\bin\Debug\mysql.data.dll
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest4_PV\Posttest4\Posttest4\obj\Debug\Posttest4.vbproj.AssemblyReference.cache
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest4_PV\Posttest4\Posttest4\obj\Debug\Posttest4.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest4_PV\Posttest4\Posttest4\obj\Debug\Posttest4.Service.resources
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest4_PV\Posttest4\Posttest4\obj\Debug\Posttest4.Resources.resources
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest4_PV\Posttest4\Posttest4\obj\Debug\Posttest4.vbproj.GenerateResource.cache
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest4_PV\Posttest4\Posttest4\obj\Debug\Posttest4.vbproj.CoreCompileInputs.cache
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest4_PV\Posttest4\Posttest4\obj\Debug\Posttest4.vbproj.CopyComplete
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest4_PV\Posttest4\Posttest4\obj\Debug\Posttest4.exe
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest4_PV\Posttest4\Posttest4\obj\Debug\Posttest4.xml
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest4_PV\Posttest4\Posttest4\obj\Debug\Posttest4.pdb
+C:\Users\Asus Gk\Documents\2. Tugas-Tugas\Posttest_PV\Posttest4_PV\Posttest4\Posttest4\obj\Debug\Posttest4.DataService.resources
